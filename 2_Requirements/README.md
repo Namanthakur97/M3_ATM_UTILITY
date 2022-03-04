@@ -2,6 +2,8 @@
 
 # HIGH LEVEL REQUIREMENTS
 
+| ID  | Description |
+|:---:|:-----------:|
 | HL1 | Login |
 | HL2 | Create Account |
 | HL3 | User have to create a new account for transaction |
