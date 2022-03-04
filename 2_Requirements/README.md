@@ -9,6 +9,7 @@
 
 # LOW LEVEL REQUIREMENTS
 
+|:--------------------------------------------|
 | LL1 | Entering customer number and password |
 | LL2 | If customer number and password is incorrect - Wrong Credentials, Enter Again |
 | LL3 | Creating new account - Entering number and password |
