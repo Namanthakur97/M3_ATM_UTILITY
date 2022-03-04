@@ -8,8 +8,8 @@
 | HL4 | User have to login to existing account for transactions |
 
 # LOW LEVEL REQUIREMENTS
-
-|:--------------------------------------------|
+| ID  | Description |
+|:---:|:-----------:|
 | LL1 | Entering customer number and password |
 | LL2 | If customer number and password is incorrect - Wrong Credentials, Enter Again |
 | LL3 | Creating new account - Entering number and password |
