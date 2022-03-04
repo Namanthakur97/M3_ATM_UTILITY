@@ -18,4 +18,4 @@
 | LL4 | If created then redirecting to login page |
 | LL5 | Choosing type- Savings or Current |
 | LL6 | Option Menu- Balance, Withdraw, Deposit, Transfer |
-| LL7 | Exiting the page |
+| LL7 |Exiting the page|
