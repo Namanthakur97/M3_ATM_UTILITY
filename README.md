@@ -1,5 +1,16 @@
 # M3_ATM_UTILITY
+I have made a simple ATM machine project using java programming. ATM stands for Automated Teller Machine. In my ATM project, the user can deposit money, withdraw, check account balance, and exit from the ATM program.
 
+# Folder Structure
+
+| ID  | Description |
+|:----|:------------|
+| 1_Abstract | About the Project |
+| 2_Requirements | High Level and Low Level Requirements |
+| 3_Design | Structural and Behavioural Diagrams |
+| 4_Implementation | Coding and class files |
+| 5_Output | Output of the project |
+| 6_References | Reference taken |
 
 | codacy | codiga | Manual workflow |
 |:------:|:------:|:---------------:|
