@@ -1,2 +1,2 @@
 # Flow Chart 
-# Structural Diagram
+# Usecase Diagram
