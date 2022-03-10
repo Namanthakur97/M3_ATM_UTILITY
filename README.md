@@ -12,6 +12,8 @@ I have made a simple ATM machine project using java programming. ATM stands for 
 | 5_Output | Output of the project |
 | 6_References | Reference taken |
 
+# Badges
+
 | codacy | codiga | Manual workflow |
 |:------:|:------:|:---------------:|
 | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9c6012e203784fadb28f4d1abb8c7d0c)](https://www.codacy.com/gh/Namanthakur97/M3_ATM_UTILITY/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Namanthakur97/M3_ATM_UTILITY&amp;utm_campaign=Badge_Grade) | ![icode grade](https://api.codiga.io/project/31827/score/svg) ![icode grade](https://api.codiga.io/project/31827/status/svg) | [![Manual workflow](https://github.com/Namanthakur97/M3_ATM_UTILITY/actions/workflows/manual.yml/badge.svg)](https://github.com/Namanthakur97/M3_ATM_UTILITY/actions/workflows/manual.yml) |
